@@ -1,0 +1,8 @@
+# TunisChomPredict — pin versions for reproducible installs
+streamlit>=1.28,<2
+plotly>=5.18,<6
+pandas>=2.0,<3
+numpy>=1.26,<3
+scikit-learn>=1.3,<2
+scipy>=1.11,<2
+joblib>=1.3,<2
